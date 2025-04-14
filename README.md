@@ -95,4 +95,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Sahil Sapte**  
-📧 [LinkedIn](https://www.linkedin.com/in/sahilsapte/) • 🌐 GitHub: [SahilSapte11](https://github.com/SahilSapte11)
+📧 [LinkedIn](https://www.linkedin.com/in/sahilsapate/) • 🌐 GitHub: [SahilSapte11](https://github.com/SahilSapte11)
